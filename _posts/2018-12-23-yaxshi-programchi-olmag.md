@@ -4,6 +4,8 @@ lang: az
 title:  "Yaxşı proqramçı olmaq"
 ---
 
+**Bu yazı Robert L. Read-in [How To Be a Programmer: A Short, Comprehensive, and Personal Summary](https://www.doc.ic.ac.uk/~susan/475/HowToBeAProgrammer.pdf) kitabının dilimizə tərcüməsidir, iş davam etməkdədir, fikirləriniz bölüşməyi unutmayın.**
+
 Yaxşı proqramçı olmaq çətin və möhtəşəm işdir. Softver layihəsini reallaşdırmağın ən çətin yanı proqramçının öz kolleqaları və istifadəçiləri ilə necə davranmağıdır. Kompyuter prqramı yazmaq çox önəmlidir, çox böyük intellekt və qabiliyyət tələb edir. 
 
 Kompyuter proqramlaşdırması kurslarda tədris olunur. Ən yaxşı kitablar The Pragmatic Programmer, Code Complete, Rapid Development, və Extreme Programming Explained kompyuter proqramlaşdırmasını və yaxşı proqramçı olmağın çətinliklərini öyrədir. Paul Graham və Eric Raymondun esseyləri bu məqaləni oxumamışdan əvvəl oxunmalıdır. Bu essey isə digər mükəmməl işlərdən proqramlaşdırmada sosial problemləri və ən önəmli qabiliyyətləri önə çəkməklə fərqlənir.
@@ -37,4 +39,3 @@ Proramın necə icra olunması barədə təsəvvür yaranması üçün kodu icra
 Debug alətləri işə yaraqıqları zaman həqiqətən möhtəşəmdir. Digər iki metod isə daha da əhəmiyyətlidir. Debug alətləri bəzən dilin inkişaf prosesindən geridə qalır, və beləcə bəzən onlar işə yaramırlar. Debug aləti proqramın necə icra olunacağını müəyyən qədər dəyişə biləcəyi üçün bütün hallarda praktiki olmaya bilərlər. Nəhayət, debug etməyin bəzi başqa metodları da vardır, kompleks verilən strukturasını yoxlamaq kimi. Debug alətini stabil olduğu müddətcə necə istifadə etməyi bilmək yaxşıdır. Amma digər iki metodu tətbiq etmək çox mühümdür.
 
  Bəzi yeni başlayanların debug etməklər bağlı kodu dəyişib və icra etməklə əlaqədar şüuraltı qorxuları var. Bu başa düşüləmdir, daha çox kəşfiyyat əməliyyatı kimi görünür. Amma yeni başlayanlar koda onu tullandırmaq üçün barmaq etməyi öyrənməlidir. Kodu eksperiment etməyi və edilərn heç nəyin onu pis etməyəcəyindən əmin olmalıdırlar. Əgər siz müəllim və mentorsanızsa bu cür yeni başlayanlara bu prosesi izah edərək bu qorxuya qalib gəlməkdə kömək edin, lazım gələrsə əllərindən tutun. Biz bu başlanğıcda yaranan qorxuya görə çox proqramçını itiririk.
-
