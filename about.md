@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Full stack web developer by day and artist by night based in Leipzig, Germany.
+Full stack web developer by day and casual video gamer by night based in Munich, Germany.
+Loves to post non-sense stuff on Twitter.
