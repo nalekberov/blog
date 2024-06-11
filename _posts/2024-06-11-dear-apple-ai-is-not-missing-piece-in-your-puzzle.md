@@ -50,15 +50,15 @@ Speaking of Privacy, Apple claims AI will be on-device, so that your data will b
 too complex to run on-device, it will be
 computed on Apple's servers named ["Private Cloud Compute"](https://security.apple.com/blog/private-cloud-compute/).
 This is joke right? How is that different from say from OpenAI's servers? Oh yes, my bad, it uses custom designed
-Apple Silicon. So it should be safe. Either people at Apple think that we are stupid, what privacy has got to do
+Apple Silicon. So it should be safe. People at Apple probably think that we are too stupid, what privacy has got to do
 processor architecture? Apple Silicon is safer
-than Intel's? If so how come? Apple is not a security company. Hope we don't have to remind them
+than Intel's? If so, how come? Apple is not a security company. Hope we don't have to remind them
 about [iCloud hack](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak).
 
-Then they showed how they are getting more serious about gaming with 14 video games. yes 14, fourteen. And since Apple
+Then they showed how they are getting more serious about gaming with 14 video games. Yes 14. Fourteen! And since Apple
 sponsor them, they can be bought only on Apple Store.
 Seriously Apple? "Bioshock" from my Steam library is playable, whereas "Resident Evil Village" not in spite of being in
-my Steam library? This is what you think about gaming on Mac? With just a few games
+my Steam library since you are sponsoring them? This is what you think about gaming on Mac? With just a few games
 only available in Apple Store? And you think people will buy Mac for gaming?
 
 And their another killer app was "Calculator". Come on Apple, you waited 15 years to bring a stock calculator app to
