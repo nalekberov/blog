@@ -4,8 +4,6 @@ lang: az
 title: "Şəxsi Məlumat məlumatsızlığı"
 ---
 
-Şəxsi məlumat məlumatsızlığı
-
 Yəqin siz özünüz də ən azı bir neçə dəfə Xaricdə təhsil, təqaüd proqramı və s. kimi mövzulu e-mail almısınız, bu ancaq
 e-mail mediumundan olubsa xoşbəxt adamsınız, çünki mobil nömrənizi mobil kontent provayderlər bombardman da edə bilərdi.
 İndi keçim əsas mövzuya. Nədir bu etik normalar, məlumatların saxlanması və işlənməsində gərəklidir yoxsa yox barədə
@@ -42,7 +40,7 @@ toplayan qurum insafına qalmısınız, istəsə satacaq, istəsə öz məqsədl
 
 Təəsüf ki, Azərbaycan reallığında məlumat məxfiliyi 0 aktuallığı olan mövzudur, böyük məlumatlardan, onların necə
 işlənməsindən danışılır, etik mövzulara toxunulduğunu isə heç görməmişəm. Amma Azərbaycan Respublikası Konstitusiyasına
-bu mövzu ilə bağlı nəzər yetirəndə bunları tapdım Konstitusiyanın 32-ci maddəsinin 5-ci bənddə qeyd olunur
+bu mövzu ilə bağlı nəzər yetirəndə bunları məlum oldu ki, [AR Konstitusiyanın 32-ci maddəsinin 5-ci bəndində](https://e-qanun.az/framework/897) qeyd olunur
 
 > Qanunla müəyyən edilmiş hallar istisna olmaqla, hər kəs onun haqqında toplanmış məlumatlarla tanış ola bilər. Hər kəsin
 onun barəsində toplanmış və həqiqətə uyğun olmayan, tam olmayan, habelə qanunun tələbləri pozulmaqla əldə edilmiş
@@ -73,7 +71,7 @@ gəlmədi.
 2. Şirkətlər özləri etik normanın nə olduğunu başa düşər, və istifadəçiləri açıq-aydın məlumatlandırar, şirkət
    çərçivəsində konvensiyalar, aktlar tərtib edib, bütün şəxsi heyətini məlumatlandırar.
 
-Mövzunu Peter Parker prinsipi ilə bitirmək istəyirəm "Böyük güc ilə böyük cavabdehlik gəlir". Məlumat böyük gücdür, böyük
+Mövzunu Peter Parker prinsipi ilə bitirmək istəyirəm  ["Böyük güc ilə böyük cavabdehlik gəlir"](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility). Məlumat böyük gücdür, böyük
 də olmasa cavabdehlik daşıyın, şəxsi əmlakınız kimi görməyin.
 
 
