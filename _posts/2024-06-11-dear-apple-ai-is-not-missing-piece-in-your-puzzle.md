@@ -11,8 +11,9 @@ but there is one thing that really bothers me - it's not the hardware - in fact 
 it's how Apple is trying hard to limit its Ipad line on OS level.
 
 Imagine a very powerful machine, with M2 chip, 8GB of RAM, 256GB of storage, but you can't even install any desktop app on it.
-Ipad OS is a protection line for Apple to keep its Mac line alive. Okay I get it, greed over everything. But then what makes Ipad so special?
-Apple could make Ipad, so that it runs MacOS and Ipad OS depending on how you use it. But no, for them profit is more important than user experience.
+Ipad OS is a protection line for Apple to keep its Mac line alive. Okay I get it, greed over everything. But then what makes Ipad so special, when I can do
+most stuff on my Macbook Air?
+Apple could make Ipad, so that it runs MacOS and Ipad OS depending on how you use it. For instance, you attached Magic Keyboard, it boots MacOS and vice versa. But no, for them profit is more important than user experience.
 
 I don't get the point of having an M4 chip in Ipad Pro, if an average user will only use half of its power. M1 is already an overkill for Ipad.
 But Apple is marketing it as "must-have" feature.
