@@ -28,5 +28,5 @@ people will buy Ipad? A device that's bigger than any calculator? Will it make I
 
 I could never imagine one day a company like OpenAI will save Apple's AI assistant Siri from being a totally useless service.
 
-Dear Apple, please stop pushing AI to every corner of your ecosystem. We - the consumers don't need this kind of woke features. We need to utilize the power of our devices.
+Dear Apple, please stop pushing AI to every corner of your ecosystem. We - the consumers don't need this kind of trendy feature. We need to utilize the power of our devices.
 
