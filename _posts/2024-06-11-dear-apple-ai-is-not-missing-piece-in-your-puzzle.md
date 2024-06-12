@@ -6,10 +6,10 @@ title: "Dear Apple, AI is not missing piece in your puzzle"
 
 
 I recently bought an 11" iPad Air M2 model, after using it just for a week I decided to return it. I just couldn't
-justify the price for use case.
-Not that my use case is too much for a tabled, but specifically for iPad. But other than drawing on it and browsing the
+justify the price for the use case.
+Not that my use case is too much for a tablet, but specifically for iPad, other than drawing on it and browsing the
 web, I couldn't find any other use case that I use for my daily drive
-I mean it's great, it's very fast, the display is amazing, especially with new Apple Pencil Pro, I love how it feels
+I mean it's great toy, it's very fast, the display is amazing, especially with new Apple Pencil Pro, I love how it feels
 when I draw on it,
 but there is one thing that really bothers me, it's not the hardware - in fact I think iPad is already exceeded its
 limit in terms of hardware -
@@ -61,7 +61,7 @@ Seriously Apple? "Bioshock" from my Steam library is playable, whereas "Resident
 my Steam library since you are sponsoring them? This is what you think about gaming on Mac? With just a few games
 only available in Apple Store? And you think people will buy Mac for gaming?
 
-And their another killer app was "Calculator". Come on Apple, you waited 15 years to bring a stock calculator app to
+And their another killer app was "Calculator". Come on Apple, you waited 14 years to bring a stock calculator app to
 iPad? And you think because of that
 people will buy iPad? A device that's bigger than any calculator? Will it make iPad more loveable? I don't think so.
 
