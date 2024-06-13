@@ -66,10 +66,11 @@ Speaking of Privacy, Apple claims AI will be on-device, so that your data will b
 too complex to run on-device, it will be
 computed on Apple's servers named ["Private Cloud Compute"](https://security.apple.com/blog/private-cloud-compute/).
 This is joke right? How is that different from say from OpenAI's servers? Oh yes, my bad, it uses custom designed
-Apple Silicon. So it should be safe. People at Apple probably think that we are too stupid, what privacy has got to do
+Apple Silicon. So it should be safe. People at Apple probably think that we are too stupid, what privacy has got to do with 
 processor architecture? Apple Silicon is safer
-than Intel's? If so, how come? Apple is not a security company. Hope we don't have to remind them
-about [iCloud hack](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak).
+than Intel's? If so, how come? Data is processed on OS level, not on CPU level. If privacy is real concern here, then partnering 
+with 3rd parties such as OpenAI is effectively putting cart before the horse.
+Moreover, Apple is not a security company. Hope we don't have to remind them about [iCloud hack](https://en.wikipedia.org/wiki/2014_celebrity_nude_photo_leak).
 
 Then they showed how they are getting more serious about gaming with 14 video games. Yes 14. FOURTEEN Titles! And since
 Apple
@@ -83,7 +84,7 @@ Come on Apple, you waited 14 years to bring a stock calculator app to iPad? And 
 people will buy iPad more? A device that's bigger than any calculator? Will it make iPad more loveable? I don't think
 so.
 
-Additionally, Apple I didn't hear anything how Apple will ensure its users' privacy while interacting with ChatGPT.
+Additionally, I didn't hear anything about how Apple will ensure its users' privacy while interacting with ChatGPT.
 I hope they are not passing any traceable data to OpenAI. Unfortunately I couldn't find any documentation about it so
 far.
 
